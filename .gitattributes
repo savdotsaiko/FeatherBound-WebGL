@@ -1,3 +1,4 @@
 Build/*.data filter=lfs diff=lfs merge=lfs -text
 Build/*.wasm filter=lfs diff=lfs merge=lfs -text
 *.unityweb filter=lfs diff=lfs merge=lfs -text
+Build/FeatherBound.data filter=lfs diff=lfs merge=lfs -text
