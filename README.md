@@ -5,7 +5,7 @@
 ## Play the Game
 You can play the latest WebGL build here:  
 [https://feathrbound.netlify.app/](https://feathrbound.netlify.app/)
-
+It's hosted on netlify instead of github pages, becase we are using LFS.  
 ---
 
 ## Repository Details
